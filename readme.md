@@ -6,6 +6,9 @@
 > [!WARNING]
 > 根据 [Cloudflare 协议](https://www.cloudflare.com/zh-cn/terms/) 中， use the Services to provide a virtual private network or other similar proxy services.
 > 使用本服务可能存在被 Cloudflare 封号的潜在风险，请自行斟酌使用风险。
+
+此项目只支持原版我的世界
+
 ### 部署方式
 - **Workers** 部署：复制 worker.js 代码，`保存并部署`即可
 ### 使用教程
